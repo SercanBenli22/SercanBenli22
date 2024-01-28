@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/SercanBenli22](https://github.com/SercanBenli22)
 
-- 💬 Ask me about **react**
+- 💬 Ask me about **react** **javascript** **html** **Css** 
 
 - 📫 How to reach me **againa222@gmail.com**
 
